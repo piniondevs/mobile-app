@@ -4,4 +4,4 @@
 </h1>
 
 # Installation
-The app is only for Android as of now sadly. You can install the app on your android device by visiting the [releases](https://github.com) section and downloading the APK from there. After you download the APK, just install it and you should be good to go.
+The app is only for Android as of now sadly. You can install the app on your android device by visiting the [releases](https://github.com/piniondevs/mobile-app/releases/tag/v1.0) section and downloading the APK from there. After you download the APK, just install it and you should be good to go.
