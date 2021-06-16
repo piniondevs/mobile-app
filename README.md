@@ -1,4 +1,4 @@
-# mobile-app
+# Pinion
 The React Native mobile app for Pinion.
 
 ## Installation
